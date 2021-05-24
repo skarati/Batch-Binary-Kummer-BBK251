@@ -1,7 +1,7 @@
 # Batch-Binary-Kummer-BBK251
 #Implementor: Sabyasachi Karati
 
-The base implementation is the the software BBE251 which is available at
+The base implementation is the software BBE251 which is available at
 the following site:
 
 https://binary.cr.yp.to/edwards.html
